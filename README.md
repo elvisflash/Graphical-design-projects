@@ -1,9 +1,12 @@
-
 # 🎨 Elvis Mbaya — Design Portfolio
 
 Welcome to my creative space — a collection of logos, thumbnails, and visual designs crafted to bring ideas to life.
 
 This repository showcases my work in **branding, visual identity, and digital design**, complementing my technical background in data and systems development.
+
+<p align="center">  
+<img src="canvarepo.png" alt="GRAPHICAL DESIGNS Header Logo" width="100%">
+</p>
 
 ---
 
